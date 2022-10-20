@@ -4,6 +4,10 @@
 
 ### My progress and what I'm working on currently: 
  - 🌱 I’m currently learning full stack web devaloper (frontend + backend)
+ 
+ 
+ ### My finished projects
+ - https://samuelradko.github.io/Projectcv2/ (HTML + CSS only!)
 
 
 
