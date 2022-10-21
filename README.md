@@ -10,4 +10,7 @@
  - https://samuelradko.github.io/Projectcv2/ (HTML + CSS only!)
 
 
+### Currently working / in progress 
+- Full working Anime site
+
 
