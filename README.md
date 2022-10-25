@@ -8,6 +8,7 @@
  
  ### My finished projects
  - https://samuelradko.github.io/Projectcv2/ (HTML + CSS only!)
+ - https://samuelradko.github.io/First-House-project/ (First class project)(HTML + CSS Only
 
 
 ### Currently working / in progress 
