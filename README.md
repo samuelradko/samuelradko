@@ -2,7 +2,7 @@
 ### Pleasure the meet you all 😄 
 ## Please fill free using my codes as I'm new in the coding world and looking to improve by the day goes by
 
-### My progress and what I'm working on currently: 
+### What I'm doing/study for now
  - 🌱 I’m currently learning full stack web devaloper (frontend + backend)
  
  
