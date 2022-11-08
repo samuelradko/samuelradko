@@ -9,7 +9,7 @@
  ### My finished projects
  - https://samuelradko.github.io/Projectcv2/ (HTML + CSS only!)
  - https://samuelradko.github.io/First-House-project/ (Full stack first project)(HTML + CSS Only)
-
+- https://samuelradko.github.io/JavaScriptFun/ (Small and easy javascript code game)
 
 ### Currently working / in progress 
 - Full working Anime site
